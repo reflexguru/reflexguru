@@ -1,6 +1,9 @@
-# Welcome to my world
+### Welcome!
 
-I'm a web developer with 2 years of experience in node.js and 1 year experience in frontend (vue, also tried react).
+##### A node.js developer with 2 years of experience in it, also knows HTML, CSS, JS, tried Dart (with Flutter), C#, worked with MongoDB.
+
+##### Where you can find me:
+##### ![](http://reflex.guru/rg.svg)
 
 #
 
