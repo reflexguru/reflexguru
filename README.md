@@ -1,12 +1,11 @@
 ### Welcome!
 
-#### A node.js developer with 2 years of experience in it, also knows HTML, CSS, JS, tried Dart (with Flutter), C#, worked with MongoDB.
+#### ✨ I'm a node.js developer with 2 years of experience in it.
+#### I'm also working with HTML, CSS, JS, MongoDB, VueJS, Eris.
+#### Besides, i tried C#, Dart (Flutter) and Python.
+#### You can find some of my works there.
+
+####
 
 #### Where you can find me:
 #### ![](http://reflex.guru/rg.svg)
-
-#
-
-> Why i'm seeing only few repos there?
-
-¯\\\_(ツ)\_/¯
