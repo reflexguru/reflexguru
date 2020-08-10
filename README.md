@@ -1,6 +1,6 @@
 ### Welcome!
 
-#### ✨ I'm a node.js developer with 2 years of experience in it.
+#### ✨ I'm a russian node.js developer with 2 years of experience in it.
 #### I'm also working with HTML, CSS, JS, MongoDB, VueJS, Eris.
 #### Besides, i tried C#, Dart (Flutter) and Python.
 #### You can find some of my works there.
