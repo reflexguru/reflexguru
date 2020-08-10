@@ -4,7 +4,7 @@
 
 I'm also working with HTML, CSS, JS, MongoDB, VueJS, React, Eris.
 
-Besides, I tried C#, Dart (Flutter) and Python.
+Besides, I've tried C#, Dart (Flutter) and Python.
 
 You can find some of my works there.
 
