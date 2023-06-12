@@ -4,4 +4,5 @@ You can find some of my works here.
 
 --------------
 
-#### DISCORD: ReflexGURU#2210
+#### [REVOLT](https://revolt.chat/): reflexguru#4137
+#### [DISCORD](https://discord.com/): reflexguru
